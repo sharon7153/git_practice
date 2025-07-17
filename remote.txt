@@ -3,3 +3,5 @@ git remoe add origin <url>
 name은 보통 origin을 사용한다.
 
 git push <name> <branch>
+
+저장소를 복제합니다.
